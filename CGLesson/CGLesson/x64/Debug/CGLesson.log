@@ -1,0 +1,14 @@
+﻿  CGLesson.cpp
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\ImageKit\Image.h(273,20): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\ImageKit\Image.h(461,28): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\ImageKit\Image.h(475,28): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\ImageKit\Image.h(486,28): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\ImageKit\Image.h(500,28): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\CGLesson.cpp(54,84): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\CGLesson.cpp(54,72): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\CGLesson.cpp(54,60): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\CGLesson.cpp(54,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\CGLesson.cpp(54,39): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\CGLesson.cpp(54,30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\CGLesson\CGLesson.cpp(250,19): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  CGLesson.vcxproj -> C:\Users\owner\OneDrive - 東京理科大学\ドキュメント\GitHub\intern_uchida_study\課題 cpp-graphics-lesson\CGLesson\x64\Debug\CGLesson.exe
